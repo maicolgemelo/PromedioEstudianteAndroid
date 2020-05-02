@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "352423779330",
+    "firebase_url": "https://infoestudiante-280a8.firebaseio.com",
+    "project_id": "infoestudiante-280a8",
+    "storage_bucket": "infoestudiante-280a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352423779330:android:283ea89f061981582b9b1b",
+        "android_client_info": {
+          "package_name": "com.example.promedioestudianteandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352423779330-t3dc6paujsigi4skb59d08kd70tkf66d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.promedioestudianteandroid",
+            "certificate_hash": "052668f41ac8d6900a7630e2d0cd893839f62e7a"
+          }
+        },
+        {
+          "client_id": "352423779330-0m13cnoggn9p6vvtsca6k97uckretq6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQhKl3qhL5gkIVPuUt8ait9ck2jAyVvw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352423779330-0m13cnoggn9p6vvtsca6k97uckretq6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

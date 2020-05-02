@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PromedioEstudianteAndroid</string>
+    <string name="Titulo">Ingrese Valores</string>
+    <string name="resultado">Resultado</string>
+</resources>
